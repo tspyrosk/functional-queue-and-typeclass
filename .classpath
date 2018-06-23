@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/scala-2.12/classes" path="src/main/scala-2.12"/>
+	<classpathentry kind="src" output="target/scala-2.12/classes" path="src/main/scala"/>
+	<classpathentry kind="src" output="target/scala-2.12/classes" path="src/main/java"/>
+	<classpathentry kind="src" output="target/scala-2.12/test-classes" path="src/test/scala-2.12"/>
+	<classpathentry kind="src" output="target/scala-2.12/test-classes" path="src/test/scala"/>
+	<classpathentry kind="src" output="target/scala-2.12/test-classes" path="src/test/java"/>
+	<classpathentry exported="true" kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/�������/.ivy2/cache/com.chuusai/shapeless_2.12/bundles/shapeless_2.12-2.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/�������/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

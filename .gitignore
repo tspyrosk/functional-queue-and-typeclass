@@ -1,0 +1,9 @@
+#Ignore IntelliJ project files:
+.idea
+.idea_modules
+target
+
+#Vim files:
+*.swp
+*.swo
+
